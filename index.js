@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ay yupiii mi amor, dijite q shi, vamo a tener a nueto Flancito')
+    alert('TOVIA ME QUELE YUPII')
 });
 
 const noBtn = document.querySelector('#noBtn');
