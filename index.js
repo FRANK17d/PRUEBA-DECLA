@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('TOVIA ME QUELE YUPII')
+    alert('TOVIA ME QUELE YUPIIIIIII')
 });
 
 const noBtn = document.querySelector('#noBtn');
